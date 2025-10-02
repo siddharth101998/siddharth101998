@@ -74,9 +74,8 @@
 - **[CVine](https://github.com/siddharth101998/CVine)** — OCR-powered wine ID + AI recommendations, GraphQL backend, Vercel/Render deploys.  
 - **[Virtual-Room-Generator](https://github.com/siddharth101998/Virtual-Room-Generator)** — Prompt → interior images via Together.ai FLUX (Streamlit).  
 - **[AI-Lyrics-generator](https://github.com/siddharth101998/AI-Lyrics-generator)** — Style-conditioned multilingual lyric generator (LLaMA/Bedrock).  
-- **[Tailor-Resume](https://github.com/siddharth101998?tab=repositories&q=Tailor+Resume&type=source)** — AI-powered resume/cover letter/email tailoring with voice edits.  
-- **[Cafe Chatbot Ordering System](https://github.com/siddharth101998?tab=repositories&q=Cafe+Chatbot&type=source)** — QR → chat ordering with admin dashboard, Pydantic-driven menu parsing.  
-- **[E-Commerce](https://github.com/siddharth101998/E-Commerce)** — Sneaker shop UI in React (clean components + state mgmt).  
+- **[SkillMapAI]([https://github.com/siddharth101998?tab=repositories&q=Tailor+Resume&type=source](https://github.com/siddharth101998/SkillMapAI))** — AI-powered resume/cover letter/email tailoring with voice edits.  
+- **[Cafe Chatbot Ordering System](https://github.com/siddharth101998/brew-chat-hub)** — QR → chat ordering with admin dashboard, Pydantic-driven menu parsing.  
 - **[PaceX](https://github.com/siddharth101998?tab=repositories&q=PaceX&type=source)** — Social + marketplace + chat with Google Maps and Redux Toolkit.
 
 > Want a quick tour? See my portfolio for screenshots and live demos: **https://sidharth-raj-khandelwal.vercel.app**.
