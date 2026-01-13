@@ -1,9 +1,9 @@
-<!-- Optional: add a dark banner image (1600x400) and replace the path below -->
-<!-- <img src="./assets/banner-dark.png" alt="Sidharth Raj Khandelwal - Full-Stack + AI" /> -->
+<!-- Optional: add a dark banner image (1600x400) -->
+<!-- <img src="./assets/banner-dark.png" alt="Sidharth Raj Khandelwal – AI & Full-Stack Engineer" /> -->
 
 <h1 align="center">Sidharth Raj Khandelwal</h1>
 <p align="center">
-  <b>Full-Stack Developer</b> · <b>AI-Driven Systems</b> · React · TypeScript · .NET · Python · AWS/Azure
+  <b>AI Engineer</b> · <b>Full-Stack Software Engineer</b> · GenAI · RAG Systems · React · TypeScript · Python · .NET · Cloud
 </p>
 
 <p align="center">
@@ -19,44 +19,83 @@
 
 ---
 
-### 🚀 What I do
-- Build **scalable, production-ready** web apps with React/Next.js, TypeScript, Node/Django, and .NET  
-- Ship **AI & RAG** features (Bedrock, OpenAI, LangChain, FAISS) for doc Q&A, recommendations, and automation  
-- Design **clean UX** with MUI/Tailwind and back it with **CI/CD** on AWS/Azure/Docker
+## 🚀 What I Do
+
+I design and ship **production-ready AI systems and full-stack applications**—from clean, scalable user interfaces to backend services and LLM-powered intelligence.
+
+- Build **end-to-end AI systems**: RAG pipelines, agent workflows, embeddings, vector search, and inference orchestration  
+- Engineer **scalable full-stack applications** using React/Next.js, TypeScript, Python, .NET, and cloud-native backends  
+- Deliver **real-world AI features**: document Q&A, recommendation systems, automation, and conversational interfaces  
+- Deploy and operate systems with **CI/CD, Docker, and cloud platforms** (AWS, Azure, GCP)
 
 ---
 
-### 🏢 Experience (highlights)
-- **Full-Stack Developer — We Rebel LLC (Sept 2025 – Present)**  
-  Automated **CWR** pipelines, integrated **Persona** identity verification, built AI agents for catalog & royalty insights, and scheduled royalty tasks with Django Q.  
-- **Software Engineer Intern — We Rebel LLC (Jun 2024 – Apr 2025)**  
-  Reusable **React + TypeScript** components, API integrations with **Azure** backends, pixel-perfect **UI** from Figma, and faster delivery via **Expo** OTA updates.  
-- **Software Engineer — TietoEVRY (Feb 2021 – Aug 2023)**  
-  Enterprise **.NET MVC** apps, **Docker + Azure DevOps** CI/CD, legacy Java → .NET modernization, and internal automation with Power Platform.  
+## 🏢 Experience (Selected)
 
-> Full resume available on request. (Summary mirrored from my latest PDF.)  
+**Full-Stack Developer — We Rebel LLC (Sept 2025 – Present)**  
+- Built large-scale **CWR (Common Works Registration)** automation handling **millions of music works**  
+- Designed backend workflows integrating **Persona (identity verification)** and **Stripe (royalty payouts)**  
+- Developed AI-assisted catalog intelligence and metadata enrichment using external music APIs  
+- Leveraged **AI-assisted development (Claude Code)** for rapid iteration, refactoring, and UI delivery  
+
+**Software Engineer Intern — We Rebel LLC (Jun 2024 – Apr 2025)**  
+- Built production **React / React Native / TypeScript** interfaces for artist onboarding and ownership workflows  
+- Designed **Django + PostgreSQL** schemas and APIs for royalty and registration tracking  
+- Delivered cross-platform apps with **Expo OTA updates**, reducing release friction  
+
+**Software Engineer — TietoEVRY (Feb 2021 – Aug 2023)**  
+- Migrated enterprise systems from **legacy Java → modern .NET architecture**  
+- Built backend services using **C#, LINQ, SQL Server**, and shared DLL-based modules  
+- Containerized services with **Docker** and supported **Azure DevOps CI/CD pipelines**  
+- Automated internal operations using **Power Apps & Power Automate**, improving efficiency by ~30%
+
+> Full resume available on request (mirrored from my latest PDF).
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 Core Technical Focus
+
+### AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Semantic embeddings & vector search (FAISS)
+- Multi-agent orchestration (ReAct, LangChain, LangGraph)
+- Prompt engineering & context management
+- OCR + multimodal AI pipelines
+- AI system evaluation, reliability, and latency optimization
+
+### AI / LLM Tools
+- OpenAI, Azure OpenAI
+- AWS Bedrock (Titan, Claude)
+- Mistral, Gemini
+- LangChain, LangSmith, LlamaIndex
+- Google Vision, OCR pipelines
+- MCP & agent SDKs
+
+---
+
+## 🧰 Tech Stack
+
 <p align="left">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-20232a?logo=typescript" />
-  <img src="https://img.shields.io/badge/Next.js-20232a?logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/.NET-20232a?logo=dotnet" />
   <img src="https://img.shields.io/badge/Python-20232a?logo=python" />
-  <img src="https://img.shields.io/badge/Django-20232a?logo=django" />
-  <img src="https://img.shields.io/badge/Node.js-20232a?logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/GraphQL-20232a?logo=graphql" />
-  <!-- AI -->
-  <img src="https://img.shields.io/badge/Bedrock-20232a?logo=amazonaws" />
-  <img src="https://img.shields.io/badge/LangChain-20232a" />
-  <img src="https://img.shields.io/badge/FAISS-20232a" />
-  <!-- UI/Data -->
+  <img src="https://img.shields.io/badge/C%23-20232a?logo=csharp" />
+  <img src="https://img.shields.io/badge/SQL-20232a" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232a?logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-20232a?logo=nextdotjs" />
   <img src="https://img.shields.io/badge/Tailwind-20232a?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/MUI-20232a?logo=mui" />
-  <!-- DB/Cloud -->
+  <img src="https://img.shields.io/badge/Streamlit-20232a?logo=streamlit" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Django-20232a?logo=django" />
+  <img src="https://img.shields.io/badge/Node.js-20232a?logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/.NET-20232a?logo=dotnet" />
+  <img src="https://img.shields.io/badge/GraphQL-20232a?logo=graphql" />
+
+  <!-- Data & Cloud -->
   <img src="https://img.shields.io/badge/PostgreSQL-20232a?logo=postgresql" />
   <img src="https://img.shields.io/badge/MongoDB-20232a?logo=mongodb" />
   <img src="https://img.shields.io/badge/Firebase-20232a?logo=firebase" />
@@ -67,36 +106,43 @@
 
 ---
 
-### 🌟 Featured Projects
-> Pinned for quick scanning. All run well in dark theme screenshots/GIFs.
+## 🌟 Featured Projects
 
-- **[CHATPDF](https://github.com/siddharth101998/CHATPDF)** — RAG Q&A over PDFs (FAISS + AWS Bedrock + LangChain).  
-- **[CVine](https://github.com/siddharth101998/CVine)** — OCR-powered wine ID + AI recommendations, GraphQL backend, Vercel/Render deploys.  
-- **[Virtual-Room-Generator](https://github.com/siddharth101998/Virtual-Room-Generator)** — Prompt → interior images via Together.ai FLUX (Streamlit).  
-- **[AI-Lyrics-generator](https://github.com/siddharth101998/AI-Lyrics-generator)** — Style-conditioned multilingual lyric generator (LLaMA/Bedrock).  
-- **[SkillMapAI]([https://github.com/siddharth101998?tab=repositories&q=Tailor+Resume&type=source](https://github.com/siddharth101998/SkillMapAI))** — AI-powered resume/cover letter/email tailoring with voice edits.  
-- **[Cafe Chatbot Ordering System](https://github.com/siddharth101998/brew-chat-hub)** — QR → chat ordering with admin dashboard, Pydantic-driven menu parsing.  
-- **[PaceX](https://github.com/siddharth101998?tab=repositories&q=PaceX&type=source)** — Social + marketplace + chat with Google Maps and Redux Toolkit.
+- **[CHATPDF](https://github.com/siddharth101998/CHATPDF)**  
+  RAG-powered PDF Q&A using **AWS Bedrock, FAISS, LangChain**, focused on factual accuracy and retrieval quality.
 
-> Want a quick tour? See my portfolio for screenshots and live demos: **https://sidharth-raj-khandelwal.vercel.app**.
+- **[SkillMapAI](https://github.com/siddharth101998/SkillMapAI)**  
+  Multi-agent resume, cover letter, and recruiter-email tailoring system with **conversational + voice editing**.
+
+- **[CVine](https://github.com/siddharth101998/CVine)**  
+  OCR-based wine identification and **AI recommendation system** with GraphQL APIs and cloud deployment.
+
+- **[Virtual Room Generator](https://github.com/siddharth101998/Virtual-Room-Generator)**  
+  Prompt-to-image interior generation using **Together.ai FLUX + Streamlit**.
+
+- **[Cafe Chatbot Ordering System](https://github.com/siddharth101998/brew-chat-hub)**  
+  QR-based conversational ordering with structured menu parsing and admin dashboard.
 
 ---
 
-### 📈 Stats (Dark Mode)
+## 📈 GitHub Stats (Dark Mode)
+
 <p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siddharth101998&show_icons=true&include_all_commits=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth101998&show_icons=true&theme=dark" />
 </p>
 <p>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth101998&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth101998&layout=compact&theme=dark" />
 </p>
 
 ---
 
-### 🤝 Open to
-- Mid-level **React / Full-Stack** roles (Northeast US, hybrid/onsite)  
-- **AI features** (RAG pipelines, embeddings, inference)  
-- **CWR automation** for music publishing systems
+## 🤝 Open To
+
+- **AI Engineer / Applied AI Engineer** roles  
+- **Full-Stack / Software Engineer** roles with strong AI exposure  
+- GenAI systems, RAG pipelines, embeddings, agentic workflows  
+- Music-tech automation, AI platforms, and data-intensive products
 
 ---
 
-<sub>© 2025 Sidharth Raj Khandelwal • Dark theme friendly • Built with ❤️ for recruiters, PMs, and fellow builders</sub>
+<sub>© 2025 Sidharth Raj Khandelwal • Designed for AI & Engineering recruiters • Dark-theme friendly</sub>
