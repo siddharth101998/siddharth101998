@@ -125,16 +125,6 @@ I design and ship **production-ready AI systems and full-stack applications**—
 
 ---
 
-## 📈 GitHub Stats (Dark Mode)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth101998&show_icons=true&theme=dark" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth101998&layout=compact&theme=dark" />
-</p>
-
----
 
 ## 🤝 Open To
 
