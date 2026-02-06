@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://sidharth-raj-khandelwal.vercel.app" target="_blank">🌐 Portfolio</a> ·
-  <a href="https://linkedin.com/in/sidharth-raj-khandelwal" target="_blank">💼 LinkedIn</a> ·
+  <a href="https://sidharth-raj-khandelwal.vercel.app" target="_blank"> Portfolio</a> ·
+  <a href="https://linkedin.com/in/sidharth-raj-khandelwal" target="_blank"> LinkedIn</a> ·
   <a href="mailto:sid_rk@outlook.com">✉️ Email</a> ·
-  <a href="https://github.com/siddharth101998" target="_blank">🐙 GitHub</a>
+  <a href="https://github.com/siddharth101998" target="_blank"> GitHub</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I design and ship **production-ready AI systems and full-stack applications**—from clean, scalable user interfaces to backend services and LLM-powered intelligence.
 
@@ -53,7 +53,7 @@ I design and ship **production-ready AI systems and full-stack applications**—
 
 ---
 
-## 🧠 Core Technical Focus
+##  Core Technical Focus
 
 ### AI Systems
 - Retrieval-Augmented Generation (RAG)
@@ -73,7 +73,7 @@ I design and ship **production-ready AI systems and full-stack applications**—
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <!-- Languages -->
@@ -106,7 +106,7 @@ I design and ship **production-ready AI systems and full-stack applications**—
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 - **[CHATPDF](https://github.com/siddharth101998/CHATPDF)**  
   RAG-powered PDF Q&A using **AWS Bedrock, FAISS, LangChain**, focused on factual accuracy and retrieval quality.
@@ -126,7 +126,7 @@ I design and ship **production-ready AI systems and full-stack applications**—
 ---
 
 
-## 🤝 Open To
+##  Open To
 
 - **AI Engineer / Applied AI Engineer** roles  
 - **Full-Stack / Software Engineer** roles with strong AI exposure  
